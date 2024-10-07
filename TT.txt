@@ -999,3 +999,33 @@ ua
 [FBAN/Orca-Android;FBAV/160.0.0.18.136;FBBV/295562488;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-F721B;FBSV/11;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/333.0.0.13.90;FBBV/316745979;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/546638517;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935P;FBSV/5;FBCA/armeabi-v7a:armeabi;]
 [FBAN/Orca-Android;FBAV/367.0.0.19.102;FBBV/22353875;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/TNT;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-N910H;FBSV/5.0;FBCA/armeabi-v7a:armeabi;]
+Mozilla/5.0 (Linux; Android 4.0.4; HUAWEI U8950-1 Build/HuaweiU8950-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile Safari/537.36 OPR/25.0.1619.84037
+Mozilla/5.0 (Linux; Android 4.0.4; HUAWEI U8950-1 Build/HuaweiU8950-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.107 Mobile Safari/537.36 OPR/29.0.1809.93516
+Mozilla/5.0 (Linux; Android 7.0; NEM-L21 Build/HONORNEM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36 OPR/51.2.2461.137690
+Mozilla/5.0 (Linux; Android 7.0; NEM-L21 Build/HONORNEM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; NEM-L21 Build/HONORNEM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Mozilla/5.0 (Linux; Android 7.0; NEM-L21 Build/HONORNEM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v5794774869985529947 t6229320373627310596 ath1fb31b7a altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 RuxitSynthetic/1.0 v7209898669939083882 t2233847247136743906 ath93eb305d altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 RuxitSynthetic/1.0 v4661876680784386337 t3410838202272378757 athe94ac249 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 RuxitSynthetic/1.0 v344688997895703020 t8621392432115270605 ath2653ab72 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v4212258077183445727 t3253144975780714708 ath259cea6f altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 RuxitSynthetic/1.0 v7463804763 t2879179345414875040 athfa3c3975 altpub cvcv=2 smf=0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v5675810502968909507 t3658811807169947780 ath1fb31b7a altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v2803172956563347568 t7922488811192078052 ath5ee645e0 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v4158629015518210338 t7686876965260843656 ath5ee645e0 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 RuxitSynthetic/1.0 v21815119309 t3426260252853334511 athfa3c3975 altpub cvcv=2 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 RuxitSynthetic/1.0 v6587966971997317484 t8113308988284949579 athe94ac249 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v6273599167237750852 t3253144975780714708 ath259cea6f altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36 RuxitSynthetic/1.0 v1545684759557809860 t8008822436391267967 ath5ee645e0 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.129 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P13 Blue Max Pro 2021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 Mobile Safari/537.36 OPR/70.3.3653.66287
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v4562959198266627053 t1185360569192283616 ath5ee645e0 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 RuxitSynthetic/1.0 v7463828460 t2879179345414875040 athfa3c3975 altpub cvcv=2 smf=0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v2771021211168244593 t1467438469511715914 ath1fb31b7a altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 (da13baf0-036d-4439-a02f-078c1f81ebd8)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 RuxitSynthetic/1.0 v21815187650 t3426260252853334511 athfa3c3975 altpub cvcv=2 smf=0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 RuxitSynthetic/1.0 v6247095318577612474 t5408201446649602320 ath93eb305d altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 RuxitSynthetic/1.0 v7339410203894768574 t3253144975780714708 ath259cea6f altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36 RuxitSynthetic/1.0 v5091191374196711843 t7922488811192078052 ath5ee645e0 altpriv cvcv=2 cexpw=1 smf=0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36 RuxitSynthetic/1.0 v1424370891 t416736650546360688 athccb4ad0b altpub cvcv=2 smf=0
